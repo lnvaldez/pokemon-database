@@ -43,6 +43,8 @@ SQL scripts to create and manage a Pokémon database. The database includes tabl
 ![Venusaur](https://github.com/TheArtificial/pokemon-icons/blob/master/_icons/SVG/003-venusaur-shiny.svg?short_path=426f0b8)
 ![Charmander](https://github.com/TheArtificial/pokemon-icons/blob/master/_icons/SVG/004-charmander-shiny.svg?short_path=426f0b8)
 ![Charmeleon](https://github.com/TheArtificial/pokemon-icons/blob/master/_icons/SVG/005-charmeleon-shiny.svg?short_path=426f0b8)
-![Charizard](https://github.com/TheArtificial/pokemon-icons/blob/master/_icons/SVG/006-charizard-shiny.svg?short_path=426f0b8)
+![Charizard](https://github.com/TheArtificial/pokemon-icons/blob/master/_icons/SVG/006-charizard-shiny.svg?short_path=426f0b8) </br>
+
+[Icons by TheArtificial](https://theartificial.github.io/pokemon-icons/)
 
 </div>
