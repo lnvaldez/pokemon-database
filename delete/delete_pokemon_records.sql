@@ -1,7 +1,7 @@
 DECLARE @pokemon_name VARCHAR(100);
 
 -- Pokemon to be deleted
-SET @pokemon_name = 'Pikachu';
+SET @pokemon_name = 'Patito';
 
 -- All operations complete or none do 
 BEGIN TRANSACTION;

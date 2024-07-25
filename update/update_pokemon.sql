@@ -11,7 +11,7 @@ DECLARE @new_defense INT;
 DECLARE @new_speed INT;
 
 -- Updates details for a specific Pokémon
-SET @update_pokemon = 'Pikachu';
+SET @update_pokemon = 'Rayquaza';
 
 SET @new_name = 'NewName';
 SET @new_generation = 'Gen 2';

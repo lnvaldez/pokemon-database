@@ -11,4 +11,4 @@ JOIN trainers t2 ON b.trainer_two = t2.id
 JOIN pokemon p1 ON b.pokemon_one = p1.id
 JOIN pokemon p2 ON b.pokemon_two = p2.id
 JOIN trainers t_winner ON b.winner = t_winner.id
-WHERE b.id = 1; -- Replace
+WHERE b.id = 8; -- Replace
